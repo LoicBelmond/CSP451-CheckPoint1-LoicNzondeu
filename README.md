@@ -1,4 +1,4 @@
-# CSP451 Checkpoint 1 Project
+# CSP451 Project
 # CSP451 CheckPoint 1 — Version Control & Git/GitHub
 
 A simple HTML/CSS/JS project used to demonstrate version control fundamentals (commits, branching, and GitHub collaboration workflows) for CSP451.

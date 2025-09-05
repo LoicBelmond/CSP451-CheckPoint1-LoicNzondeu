@@ -15,7 +15,7 @@ This repository contains:
 
 ---
 
-##▶️ Usage
+**## usage**
 
 Open index.html in your browser (double-click or use Live Server in VS Code).
 Open DevTools Console to see the JavaScript output from script.js.
@@ -26,7 +26,7 @@ Hello from script.js!
 
 ---
 
-🤝 Contributing Guidelines
+**##🤝 Contributing Guidelines**
 
 We welcome small improvements for learning purposes.
 
@@ -55,12 +55,13 @@ Assign the instructor/reviewer and address any comments.
 
 ---
 
-📄 License
+**## License**
 
 This project is licensed under the MIT License.
 See the LICENSE
  file for details.
-## ⚙️ Installation
+ 
+## Installation
 Clone the repo and enter the folder:
 ```bash
 git clone https://github.com/YourUsername/CSP451-CheckPoint1-YourName.git
